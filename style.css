@@ -9,7 +9,7 @@ h1 {
 }
 div{
     border-radius: 8px;
-    text-align:"center";
+    position:right;
 }
 h2{
 font-size: 3em;
@@ -29,7 +29,8 @@ h4{
 }
 p{
     color: black;
-    font size: 3em;
+    font size: 3px;
+    position:left;
 }
 #jump-to {
     background-color: #c6cebe;
