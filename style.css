@@ -48,9 +48,9 @@ ul{
 dt{
     font-weight: bolder;
     font-style: italic;
-    font-size: 3em;
+    font-size: 2em;
 }
 dd{
-    font-size: 2em;
+    font-size: 1em;
     color: rgb(33, 11, 34);
 }
