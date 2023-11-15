@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(104, 198, 241)
+    background-color: rgb(153, 209, 235)
 }
 h1 {
     color: #110807;
-    font-size: 4em;
+    font-size: 5em;
     font-family: 'Times New Roman', Times, serif;
     text-align:"center";
 }
@@ -36,4 +36,21 @@ p{
     font-size: 3em;
     font-family: 'Times New Roman', Times, serif;
 
+}
+h5{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    color:#010ec7
+}
+ul{
+    font-family: 'Times New Roman', Times, serif;
+}
+dt{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 3em;
+}
+dd{
+    font-size: 2em;
+    color: rgb(33, 11, 34);
 }
