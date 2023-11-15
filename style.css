@@ -35,12 +35,14 @@ p{
     background-color: #c6cebe;
     font-size: 3em;
     font-family: 'Times New Roman', Times, serif;
+    text-align:"center";
 
 }
 h5{
     font-size: 3em;
     font-family: 'Times New Roman', Times, serif;
-    color:#010ec7
+    color:#010ec7;
+    text-align:"center";
 }
 ul{
     font-family: 'Times New Roman', Times, serif;
