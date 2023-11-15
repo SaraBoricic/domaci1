@@ -6,11 +6,12 @@ h1 {
     font-size: 4em;
     font-family: 'Times New Roman', Times, serif;
     text-align:"center";
-    
+
   
 }
 
-img{
-    
+div{
+    border-radius: 8px;
+    text-align:"center";
 
 }
