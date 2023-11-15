@@ -6,12 +6,29 @@ h1 {
     font-size: 4em;
     font-family: 'Times New Roman', Times, serif;
     text-align:"center";
-
-  
 }
-
 div{
     border-radius: 8px;
     text-align:"center";
+}
+h2{
+font-size: 3em;
+font-family: 'Times New Roman', Times, serif;
+color:#010ec7
+}
+h3{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    color:#010ec7
 
+}
+h4{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    color:#010ec7
+
+}
+p{
+    color: black;
+    font size: 2em;
 }
