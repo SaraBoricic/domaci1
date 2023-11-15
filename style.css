@@ -6,6 +6,10 @@ h1 {
     font-size: 4em;
     style:"text-align:center";
     font-family: 'Times New Roman', Times, serif;
-    
-    
+  
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
