@@ -8,8 +8,8 @@ h1 {
     text-align:"center";
 }
 div{
-    border-radius: 8px;
-    position:right;
+    border-radius: 50%;
+    position:relative;
 }
 h2{
 font-size: 3em;
