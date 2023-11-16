@@ -30,7 +30,7 @@ h4{
 p{
     color: black;
     font size: 3px;
-    position:left;
+    
 }
 #jump-to {
     background-color: #c6cebe;
@@ -56,4 +56,17 @@ dt{
 dd{
     font-size: 1em;
     color: rgb(33, 11, 34);
+}
+table{
+    border: 1px;
+    font-size: 2em;
+}
+th{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(3, 41, 41)
+}
+td{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0)
 }
