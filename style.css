@@ -10,6 +10,7 @@ h1 {
 img{
     border-radius: 50%;
     position:relative;
+    border: #c6cebe;
 }
 h2{
 font-size: 3em;
@@ -35,7 +36,7 @@ p{
 }
 #jump-to {
     background-color: #c6cebe;
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Times New Roman', Times, serif;
     text-align:"center";
 
@@ -55,8 +56,9 @@ dt{
     font-size: 2em;
 }
 dd{
-    font-size: 1em;
+    font-size: 2em;
     color: rgb(33, 11, 34);
+    font-family: 'Times New Roman', Times, serif;
 }
 table{
     border: 1px;
